@@ -25,3 +25,9 @@
 
 #add crontab
 #*/1   *   *   *   *    /bin/bash /usr/local/pyrules/bin/trigger_st.sh &> /usr/local/pyrules/logs/pyrules.log
+
+##
+test br  
+
+
+test 2
